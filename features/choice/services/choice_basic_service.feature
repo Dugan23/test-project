@@ -14,3 +14,4 @@ Feature: choice-services choice-service basic
 
   Scenario: Viewing an article by its ID
     Given I look for the article with ID 10.5860/CHOICE.feature-9
+
